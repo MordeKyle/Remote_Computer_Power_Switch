@@ -11,13 +11,14 @@
  •Male to female jumper wires: https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/<br/>
  •Male Headers: https://www.amazon.com/Hotop-Pack-Single-Header-Connector/dp/B06XR8CV8P/<br/>
  •2x 220Ω resistors<br/>
+ •1x 1KΩ resistor<br/>
  •Wire<br/>
  •Solder
  
  ## Libraries
-  •ESP8266WiFi.h<br/>
   •BlynkSimpleEsp8266.h<br/>
-  See the file "Libraries_to_install.png" for to reference exactly which libraries to install in the Arduino IDE.
+  •ESP8266WiFi.h<br/>
+  ![alt_text](https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Libraries_to_install.png?raw=true)
   
  ## Wiring Diagram
-  TBD
+  ![alt text](https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Remote%20Circuit.png?raw=true)
