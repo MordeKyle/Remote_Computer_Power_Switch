@@ -9,10 +9,10 @@ char pass[] = "YOUR WIFI PASSWORD HERE";
 
 int powerState = 0;
 
-int powerLEDInPin = D2;
-int powerLEDOutPin = D6;
-int powerButtonPin = D8;
-int resetButtonPin = D7;
+int powerLEDInPin = D6;
+int powerLEDOutPin = D2;
+int powerButtonPin = D7;
+int resetButtonPin = D8;
 
 void setup()
 {
