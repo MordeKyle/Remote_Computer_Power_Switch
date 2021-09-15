@@ -10,7 +10,8 @@
  •Octocouplers: https://www.amazon.com/dp/B01JG8EJVW/<br/>
  •Male to female jumper wires: https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/<br/>
  •Male Headers: https://www.amazon.com/Hotop-Pack-Single-Header-Connector/dp/B06XR8CV8P/<br/>
- •Wire
+ •2x 220Ω resistors<br/>
+ •Wire<br/>
  •Solder
  
  ## Libraries
