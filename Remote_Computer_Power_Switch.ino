@@ -54,7 +54,7 @@ BLYNK_WRITE(V2)
     else
     {
       digitalWrite(resetButtonPin, HIGH);
-      Serial.println("Resetting...")
+      Serial.println("Resetting...");
     }
   }
   else
