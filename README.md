@@ -21,4 +21,4 @@
   ![alt_text](https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Libraries_to_install.png?raw=true)
   
  ## Wiring Diagram
-  ![alt text](https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Remote%20Circuit.png?raw=true)
+  ![alt text](https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Remote_Circuit.png?raw=true)
