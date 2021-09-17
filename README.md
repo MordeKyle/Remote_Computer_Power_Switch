@@ -15,10 +15,25 @@
  •Wire<br/>
  •Solder
  
- ## Libraries
-  •BlynkSimpleEsp8266.h<br/>
-  •ESP8266WiFi.h<br/>
-  ![alt_text](https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Libraries_to_install.png?raw=true)
+## Libraries
+ •BlynkSimpleEsp8266.h<br/>
+ •ESP8266WiFi.h<br/>
+ <img src="https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Images/Libraries_to_install.png">
   
- ## Wiring Diagram
-  ![alt text](https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Remote_Circuit.png?raw=true)
+## Wiring Diagram
+ <img src="https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Images/Remote_Circuit.png">
+
+## Blynk Setup
+ See [THIS LINK](https://blynk.io/en/getting-started) for help getting started with Blynk.
+### Blynk Layout
+ This is where you will place you virtual buttons and a digital pin.<br/>
+ <img src="https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Images/Blynk_Layout.png" width=250>
+### Virtual Reset Button
+ This is a virtual button that will reset the computer. Set it as Virtual Pin 2 and use the following attributes on your button.<br/>
+ <img src="https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Images/Reset_Button_V2.png" width=250>
+### Virtual Power Button
+ This is a virtual button that will power on the computer. Set it as Virtual Pin 3 and use the following attributes on you button.<br/>
+ <img src="https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Images/Power_Button_V3.png" width=250>
+### Digital Pin 2
+ This is a physical pin on the Wemos. This will display whether pin D2 is being held HIGH or LOW and will tell you if the computer is on or off. Set it as a Value Display on D2 and use the following attributes below.<br/>
+ <img src="https://github.com/MordeKyle/Remote_Computer_Power_Switch/blob/main/Images/D2.png" width=250>
