@@ -4,6 +4,7 @@
 #include <BlynkSimpleEsp8266.h>
 
 //Blynk authorization key and wifi information
+//Remove the " completly
 char auth[] = "YOUR BLYNK AUTH CODE HERE";
 char ssid[] = "YOUR WIFI SSID HERE";
 char pass[] = "YOUR WIFI PASSWORD HERE";
